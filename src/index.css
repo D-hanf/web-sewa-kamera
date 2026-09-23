@@ -1,0 +1,61 @@
+@import "tailwindcss";
+
+/*
+ * KONFIGURASI TAILWIND — LensaKita
+ * ===================================
+ * Block @theme di bawah mendefinisikan nilai AWAL token desain.
+ * Nilai-nilai ini DISINKRONKAN dengan src/config/theme.js dan
+ * akan di-override saat runtime oleh src/utils/applyTheme.js.
+ *
+ * JANGAN ubah warna di sini secara langsung — edit src/config/theme.js saja.
+ * applyTheme() akan menimpa nilai ini via CSS custom properties.
+ *
+ * Tailwind v4 meng-generate utility class yang menggunakan var(--color-*),
+ * sehingga perubahan dari applyTheme() langsung terlihat tanpa rebuild.
+ */
+@theme {
+  /* Warna brand */
+  --color-primary:       #0F2A3D;
+  --color-primary-dark:  #0A1F2E;
+  --color-primary-light: #1A3D5C;
+
+  /* Latar belakang */
+  --color-background: #FFFFFF;
+  --color-card:       #EEF3F5;
+
+  /* Aksen CTA */
+  --color-accent:       #1D9E75;
+  --color-accent-dark:  #17875F;
+  --color-accent-light: #D6F0E9;
+
+  /* Teks */
+  --color-secondary: #5C7080;
+  --color-muted:     #8FA3AF;
+
+  /* Border */
+  --color-border: #D5E0E5;
+
+  /* Status */
+  --color-danger: #DC2626;
+
+  /* Font */
+  --font-sans: 'Inter', 'Segoe UI', system-ui, -apple-system, sans-serif;
+}
+
+/* ── Animasi ─────────────────────────────────────────────────────────────── */
+@keyframes slide-up {
+  from { opacity: 0; transform: translateY(10px); }
+  to   { opacity: 1; transform: translateY(0);    }
+}
+.animate-slide-up { animation: slide-up 0.25s ease-out forwards; }
+
+/* ── Scrollbar ───────────────────────────────────────────────────────────── */
+::-webkit-scrollbar       { width: 5px; }
+::-webkit-scrollbar-track { background: #EEF3F5; }
+::-webkit-scrollbar-thumb { background: #D5E0E5; border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: #5C7080; }
+
+/* ── Hilangkan arrow bawaan input type=number ────────────────────────────── */
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button { -webkit-appearance: none; }
+input[type="number"] { -moz-appearance: textfield; }

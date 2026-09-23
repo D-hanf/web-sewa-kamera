@@ -1,0 +1,198 @@
+[
+  {
+    "id": "cam-001",
+    "nama": "Sony Alpha A7 III",
+    "kategori": "Kamera",
+    "harga_per_hari": 350000,
+    "deskripsi_singkat": "Kamera mirrorless full-frame profesional dengan sensor 24.2MP BSI-CMOS. Ideal untuk foto portrait, landscape, dan video 4K.",
+    "foto": "/images/products/cam-001.jpg",
+    "spesifikasi": {
+      "sensor": "Full-frame 24.2MP BSI-CMOS",
+      "iso": "100 – 51200 (expandable 50 – 204800)",
+      "video": "4K 30fps, Full HD 120fps",
+      "autofokus": "693-point phase-detection AF",
+      "baterai": "~710 foto per charge"
+    },
+    "status": "tersedia"
+  },
+  {
+    "id": "cam-002",
+    "nama": "Canon EOS R6 Mark II",
+    "kategori": "Kamera",
+    "harga_per_hari": 400000,
+    "deskripsi_singkat": "Kamera mirrorless full-frame 40fps, video 4K 60fps dengan IBIS 8-stop. Pilihan terbaik untuk fotografer wildlife dan sport.",
+    "foto": "/images/products/cam-002.jpg",
+    "spesifikasi": {
+      "sensor": "Full-frame 24.2MP CMOS",
+      "iso": "100 – 102400 (expandable 204800)",
+      "video": "4K 60fps, Full HD 180fps",
+      "autofokus": "Dual Pixel CMOS AF II, 1053 area",
+      "baterai": "~760 foto per charge"
+    },
+    "status": "tersedia"
+  },
+  {
+    "id": "cam-003",
+    "nama": "Fujifilm X-T5",
+    "kategori": "Kamera",
+    "harga_per_hari": 300000,
+    "deskripsi_singkat": "Kamera mirrorless APS-C 40.2MP dengan look film ikonik Fujifilm. Bodi compact, hasil foto luar biasa detail.",
+    "foto": "/images/products/cam-003.jpg",
+    "spesifikasi": {
+      "sensor": "APS-C 40.2MP X-Trans CMOS 5 HR",
+      "iso": "125 – 12800 (expandable 64 – 51200)",
+      "video": "6.2K 30fps, 4K 60fps",
+      "autofokus": "Intelligent Hybrid AF, 425 area",
+      "baterai": "~580 foto per charge"
+    },
+    "status": "tersedia"
+  },
+  {
+    "id": "cam-004",
+    "nama": "Nikon Z6 III",
+    "kategori": "Kamera",
+    "harga_per_hari": 380000,
+    "deskripsi_singkat": "Kamera mirrorless full-frame terbaru Nikon dengan sensor partial stacked CMOS 24.5MP. Ideal untuk event, wedding, dan street photography.",
+    "foto": "/images/products/cam-004.jpg",
+    "spesifikasi": {
+      "sensor": "Full-frame 24.5MP Partial Stacked CMOS",
+      "iso": "100 – 64000 (expandable 204800)",
+      "video": "6K 60fps RAW, 4K 120fps",
+      "autofokus": "Hybrid Phase-detect AF, 299 area",
+      "baterai": "~390 foto per charge"
+    },
+    "status": "disewa"
+  },
+  {
+    "id": "lens-001",
+    "nama": "Sony FE 85mm f/1.4 GM",
+    "kategori": "Lensa",
+    "harga_per_hari": 200000,
+    "deskripsi_singkat": "Lensa prime tele portrait kelas atas dengan bokeh creamy tak tertandingi. Kompatibel dengan semua kamera Sony E-mount.",
+    "foto": "/images/products/lens-001.jpg",
+    "spesifikasi": {
+      "mount": "Sony E-mount",
+      "focal_length": "85mm",
+      "aperture_max": "f/1.4",
+      "aperture_min": "f/16",
+      "filter": "77mm",
+      "berat": "820g"
+    },
+    "status": "tersedia"
+  },
+  {
+    "id": "lens-002",
+    "nama": "Canon RF 50mm f/1.2L",
+    "kategori": "Lensa",
+    "harga_per_hari": 250000,
+    "deskripsi_singkat": "Lensa nifty-fifty premium Canon L-series. Rendernya natural, tajam, dan bokeh sangat mulus. Pilihan ideal untuk street & portrait.",
+    "foto": "/images/products/lens-002.jpg",
+    "spesifikasi": {
+      "mount": "Canon RF-mount",
+      "focal_length": "50mm",
+      "aperture_max": "f/1.2",
+      "aperture_min": "f/16",
+      "filter": "77mm",
+      "berat": "950g"
+    },
+    "status": "tersedia"
+  },
+  {
+    "id": "lens-003",
+    "nama": "Sigma 24-70mm f/2.8 DG DN Art",
+    "kategori": "Lensa",
+    "harga_per_hari": 175000,
+    "deskripsi_singkat": "Lensa zoom standar yang serbaguna. Kualitas optik setara lensa L-series dengan harga yang lebih bersahabat.",
+    "foto": "/images/products/lens-003.jpg",
+    "spesifikasi": {
+      "mount": "Sony E-mount / L-mount",
+      "focal_length": "24-70mm",
+      "aperture_max": "f/2.8",
+      "aperture_min": "f/22",
+      "filter": "82mm",
+      "berat": "835g"
+    },
+    "status": "tersedia"
+  },
+  {
+    "id": "lens-004",
+    "nama": "Tamron 70-180mm f/2.8 Di III VC VXD G2",
+    "kategori": "Lensa",
+    "harga_per_hari": 160000,
+    "deskripsi_singkat": "Lensa tele zoom dengan stabilisasi gambar. Cocok untuk sport, wildlife, dan event dari jarak jauh.",
+    "foto": "/images/products/lens-004.jpg",
+    "spesifikasi": {
+      "mount": "Sony E-mount",
+      "focal_length": "70-180mm",
+      "aperture_max": "f/2.8",
+      "aperture_min": "f/22",
+      "filter": "67mm",
+      "berat": "855g"
+    },
+    "status": "tersedia"
+  },
+  {
+    "id": "acc-001",
+    "nama": "Godox AD200Pro Flash",
+    "kategori": "Aksesoris",
+    "harga_per_hari": 120000,
+    "deskripsi_singkat": "Flash portabel 200Ws dengan baterai built-in. Mendukung TTL, HSS, dan bisa dikontrol wireless via X2T trigger.",
+    "foto": "/images/products/acc-001.jpg",
+    "spesifikasi": {
+      "daya": "200Ws",
+      "recycle_time": "0.01 – 1.8 detik",
+      "baterai": "500+ full-power flashes",
+      "kompatibel": "Canon, Nikon, Sony, Fujifilm",
+      "bobot": "490g (tanpa baterai)"
+    },
+    "status": "tersedia"
+  },
+  {
+    "id": "acc-002",
+    "nama": "DJI RS 3 Gimbal Stabilizer",
+    "kategori": "Aksesoris",
+    "harga_per_hari": 150000,
+    "deskripsi_singkat": "Gimbal 3-axis untuk kamera mirrorless hingga 3kg. Hasil video sinematik yang mulus, cocok untuk wedding & film pendek.",
+    "foto": "/images/products/acc-002.jpg",
+    "spesifikasi": {
+      "payload_max": "3kg",
+      "axes": "3-axis (tilt, roll, pan)",
+      "baterai": "12 jam continuous",
+      "bluetooth": "Ya (untuk remote shutter & control)",
+      "berat": "1.3kg"
+    },
+    "status": "tersedia"
+  },
+  {
+    "id": "acc-003",
+    "nama": "Neewer NL660S LED Panel Light",
+    "kategori": "Aksesoris",
+    "harga_per_hari": 80000,
+    "deskripsi_singkat": "Lampu LED panel bi-color untuk studio atau lokasi. Cahaya lembut dan merata, ideal untuk foto produk dan video interview.",
+    "foto": "/images/products/acc-003.jpg",
+    "spesifikasi": {
+      "cahaya": "660 LED bi-color (3200K – 5600K)",
+      "daya": "40W",
+      "CRI": "97+",
+      "power": "Baterai NP-F atau DC adapter",
+      "dimensi": "30 x 20 x 4 cm"
+    },
+    "status": "disewa"
+  },
+  {
+    "id": "acc-004",
+    "nama": "Peak Design Travel Tripod",
+    "kategori": "Aksesoris",
+    "harga_per_hari": 75000,
+    "deskripsi_singkat": "Tripod travel kelas premium: sangat compact saat dilipat, kuat menopang hingga 9kg, setup dalam 7 detik.",
+    "foto": "/images/products/acc-004.jpg",
+    "spesifikasi": {
+      "payload_max": "9.1kg",
+      "tinggi_max": "152cm",
+      "tinggi_lipat": "40.6cm",
+      "bahan": "Carbon fiber",
+      "berat": "1.27kg"
+    },
+    "status": "tersedia"
+  }
+]
